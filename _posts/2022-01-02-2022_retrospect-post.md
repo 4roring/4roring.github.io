@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 2022 회고
-cover: 2022_retrospect.jpg
+title: 2021 회고
+cover: 2021_retrospect.jpg
 date:   2022-01-02 23:29:00
 categories: posts
 ---
