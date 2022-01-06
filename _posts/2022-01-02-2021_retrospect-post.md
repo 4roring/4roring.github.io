@@ -71,7 +71,8 @@ rss를 이용하여 Nyaa.si 에서 특정 config 파일을 통하여 애니메�
 그 외에 공부하는 것들도 시간나고 생각나고 심심할 때 정리중!!!
 
 ### 백준에 등급이 생긴 것을 보고 잠깐 달리다.
-![2021_retrospect_baekjoon.png](images/2022_retrospect_baekjoon.png)   
+![2021_retrospect_baekjoon.png](2021_retrospect_baekjoon.png)
+
 진짜 잠깐이지만... 브론즈 1까지 올렸다.. 시간나면 더 달려야지!
 
 ### 회사 관련 작업이지만 오픈소스에 한줄 Pull requests를 날려보다
