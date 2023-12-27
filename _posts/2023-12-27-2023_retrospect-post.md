@@ -2,7 +2,7 @@
 layout: post
 title: 2023 회고
 cover: 2023/01_cover.jpg
-date: 2022-12-17 23:17:00
+date: 2023-12-17 23:17:00
 categories: posts
 ---
 
